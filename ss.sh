@@ -1,7 +1,7 @@
 mkdir /tmp/geewan
  
  cd /tmp/geewan
- wget http://www.ilucong.net/file/geewan.tar.gz
+ wget https://github.com/Belala/ss/blob/master/geewan.tar.gz
 #git clone https://github.com/Doboo/ss
  
  tar xzvf geewan.tar.gz -C / >>/dev/null
